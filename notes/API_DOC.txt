@@ -1,0 +1,16 @@
+shema = User
+
+fileds = username,email,password
+
+============API for creating User
+
+    url : lh:8000
+
+    method :post
+
+    body :{
+
+        "username" : "user name"
+
+        "email" : 
+    }
